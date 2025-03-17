@@ -23,7 +23,7 @@ https://icon.colorado.edu/networks
   - Technological：5
   - Transportation：7
 - 排序subdomain 
-  - <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250317122241665.png" alt="image-20250317122241665" style="zoom:33%;" />
+  - 搜索框最右sort
 - 下载：
   1. 多文件
   2. 不存在、或者找不到：跳过记录source url
